@@ -1,2 +1,6 @@
 git_comandos.bat
 keyboard_module
+
+# Cache do Python
+__pycache__/
+*.py[cod]
